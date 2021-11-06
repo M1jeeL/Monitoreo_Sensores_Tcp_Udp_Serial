@@ -22,7 +22,7 @@ el cual recibe datos desde 3 sensores creados con NodeJs (TCP), Python (UDP) y A
 
 ### Al tener los dos sensores funcionando debemos ejecutar el <code>servidor_websocket.js</code> con el siguiente comando:
 
-<code>node servidor_websocket.js</code
+<code>node servidor_websocket.js</code>
 
 
 ## No olvidar cambiar la ip de todos los sensores y servidor, para ejecutarlo en localhost
